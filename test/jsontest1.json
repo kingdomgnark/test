@@ -1,0 +1,32 @@
+{
+"coord":
+	{
+	"lon":-121.31,
+	"lat":38.7
+	},
+"weather":
+[
+	{
+	"id":800,
+	"main":"Clear",
+	"description":"clear sky",
+	"icon":"01d"
+	}
+],
+"base":"stations",
+"main":
+	{
+	"temp":73.26,
+	"pressure":1018,
+	"humidity":17,
+	"temp_min":68,
+	"temp_max":77},
+	"visibility":16093,"wind":
+{
+"speed":5.82,"deg":330},
+"clouds":
+{
+"all":1},
+"dt":1572736446,
+"sys":
+{"type":1,"id":5769,"country":"US","sunrise":1572705180,"sunset":1572743070},"timezone":-25200,"id":0,"name":"Citrus Heights","cod":200}
